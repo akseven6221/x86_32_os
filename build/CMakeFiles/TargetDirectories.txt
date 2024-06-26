@@ -1,0 +1,8 @@
+/home/alioth/proj/easy_os/课程源码/start/start/build/CMakeFiles/edit_cache.dir
+/home/alioth/proj/easy_os/课程源码/start/start/build/CMakeFiles/rebuild_cache.dir
+/home/alioth/proj/easy_os/课程源码/start/start/build/source/boot/CMakeFiles/boot.dir
+/home/alioth/proj/easy_os/课程源码/start/start/build/source/boot/CMakeFiles/edit_cache.dir
+/home/alioth/proj/easy_os/课程源码/start/start/build/source/boot/CMakeFiles/rebuild_cache.dir
+/home/alioth/proj/easy_os/课程源码/start/start/build/source/loader/CMakeFiles/loader.dir
+/home/alioth/proj/easy_os/课程源码/start/start/build/source/loader/CMakeFiles/edit_cache.dir
+/home/alioth/proj/easy_os/课程源码/start/start/build/source/loader/CMakeFiles/rebuild_cache.dir

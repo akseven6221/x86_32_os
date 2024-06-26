@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/alioth/proj/easy_os/课程源码/start/start/build/source/boot",
+  "command": "/usr/bin/gcc  -I/home/alioth/proj/easy_os/课程源码/start/start/source -m32 -g -g -o CMakeFiles/boot.dir/start.S.o -c /home/alioth/proj/easy_os/课程源码/start/start/source/boot/start.S",
+  "file": "/home/alioth/proj/easy_os/课程源码/start/start/source/boot/start.S"
+},
+{
+  "directory": "/home/alioth/proj/easy_os/课程源码/start/start/build/source/boot",
+  "command": "/usr/bin/gcc  -I/home/alioth/proj/easy_os/课程源码/start/start/source -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/boot.dir/boot.c.o -c /home/alioth/proj/easy_os/课程源码/start/start/source/boot/boot.c",
+  "file": "/home/alioth/proj/easy_os/课程源码/start/start/source/boot/boot.c"
+},
+{
+  "directory": "/home/alioth/proj/easy_os/课程源码/start/start/build/source/loader",
+  "command": "/usr/bin/gcc  -I/home/alioth/proj/easy_os/课程源码/start/start/source -m32 -g -g -o CMakeFiles/loader.dir/start.S.o -c /home/alioth/proj/easy_os/课程源码/start/start/source/loader/start.S",
+  "file": "/home/alioth/proj/easy_os/课程源码/start/start/source/loader/start.S"
+},
+{
+  "directory": "/home/alioth/proj/easy_os/课程源码/start/start/build/source/loader",
+  "command": "/usr/bin/gcc  -I/home/alioth/proj/easy_os/课程源码/start/start/source -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loader.dir/loader_16.c.o -c /home/alioth/proj/easy_os/课程源码/start/start/source/loader/loader_16.c",
+  "file": "/home/alioth/proj/easy_os/课程源码/start/start/source/loader/loader_16.c"
+},
+{
+  "directory": "/home/alioth/proj/easy_os/课程源码/start/start/build/source/loader",
+  "command": "/usr/bin/gcc  -I/home/alioth/proj/easy_os/课程源码/start/start/source -g -c -O0 -m32 -fno-pie -fno-stack-protector -fno-asynchronous-unwind-tables -g -o CMakeFiles/loader.dir/loader_32.c.o -c /home/alioth/proj/easy_os/课程源码/start/start/source/loader/loader_32.c",
+  "file": "/home/alioth/proj/easy_os/课程源码/start/start/source/loader/loader_32.c"
+}
+]

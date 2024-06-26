@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alioth/proj/easy_os/课程源码/start/start/source/boot/boot.h
+
+/home/alioth/proj/easy_os/课程源码/start/start/source/boot/start.S
+boot.h
+/home/alioth/proj/easy_os/课程源码/start/start/source/boot/boot.h
+
